@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+# Personal data and outputs
+result.txt
+*.csv
+*.xlsx
+eToroPrivatePathsLib.py
+.DS_Store
